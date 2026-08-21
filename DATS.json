@@ -106,6 +106,14 @@
             ]
         },
         {
+            "category": "evidence_publication",
+            "values": [
+                {
+                    "value": "10.55458/neurolibre.00007"
+                }
+            ]
+        },
+        {
             "category": "files",
             "values": [
                 {
